@@ -12,14 +12,11 @@ TODO: The repo is for 1055 HW2.
 
 ## Contributing
 The contributor is Ying Yang. The folders and the files can be annotated as follow.
-1. Assets-it contains a empty text file;
-2. CSS-it contains 4 main.css file;
+1. One README.md file.
+2. CSS-it contains a main.css file;
 3. images-it contains all image files;
-4. includes-it contains 1 PDF file and 1 text file. The PDF is for semantic tagging and doucment outline;
-5. js-it contains a blank text file;
-6. fonts-all fonts files;
-7. Page1-Page5_index.html;
-8. One README.md file.
+4. script-it contains a main.js file;
+6. one index.html.
 
 ## History
 TODO: 
